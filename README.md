@@ -51,4 +51,9 @@ All images were obtained from E-commerce websites or image searches and are in n
             relaxed
             slim
             tight
+ 
+ 
+ ### Author - Loren Price 
+ #### lorenjprice@gmail.com
+
 
