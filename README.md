@@ -13,7 +13,7 @@ Fit can be interpreted as how tight or loose a garment is fitting on a person.
 
 ## Project Files
 * Final Capstone Proposal.pdf: Project Overview. 
-* fit_classification.ipynb: Main notebook of classification model.
+* main_notebook.ipynb: Main notebook of classification model.
 * fit_classification -2 training layers .ipynb: Secondary notebook with different version of model.
 * Visualize Activation.ipynb: Visualization of Activation map.
 * prediction demo.ipynb: Demonstration of model use.
